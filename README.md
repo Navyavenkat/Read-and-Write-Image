@@ -84,6 +84,7 @@ cv2.waitKey(0)
 ### i) Read and display the image
 
 <br>
+
 ![image](https://user-images.githubusercontent.com/94165327/225051006-2d287b8a-a82d-40ae-a06c-fe38dfa82bb0.png)
 
 ![image](https://user-images.githubusercontent.com/94165327/225051180-b73968b5-8fbd-4cea-99c9-8f9bfdea251d.png)
@@ -93,6 +94,7 @@ cv2.waitKey(0)
 ### ii)Write the image
 
 <br>
+
 ![image](https://user-images.githubusercontent.com/94165327/225051307-ec7ed0d9-0c04-497d-ba4d-4c5b7ddb9e23.png)
 
 <br>
@@ -114,6 +116,7 @@ cv2.waitKey(0)
 
 ### v)Cut and paste portion of image
 <br>
+
 ![image](https://user-images.githubusercontent.com/94165327/225051802-0c2fe12f-650f-4d73-8233-67e81b9361f8.png)
 
 <br>
